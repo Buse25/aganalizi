@@ -1,0 +1,38 @@
+
+KAPSAMLI TEST SİSTEMİ RAPORU
+============================
+Test Tarihi: 2025-06-08 18:02:11
+Toplam Test Süresi: 2.76 saniye
+
+TEST SONUÇLARI:
+==============
+
+DOSYA_OLUSTURMA: BAŞARILI
+------------------------------
+Dosya Sayısı: 4
+Toplam Boyut: 1162240 bytes
+
+SIFRELEME: BAŞARILI
+------------------------------
+Algoritma: AES-256 (Fernet)
+Anahtar Uzunluğu: 256 bit
+
+PARCALAMA: BAŞARILI
+------------------------------
+
+NETWORK: BAŞARILI
+------------------------------
+
+PERFORMANS: BAŞARILI
+------------------------------
+Ping: 10.0 ms
+Test edilen dosya sayısı: 4
+
+GUVENLIK: BAŞARILI
+------------------------------
+
+SİSTEM BİLGİLERİ:
+================
+CPU Kullanımı: 19.2%
+Bellek Kullanımı: 86.3%
+Disk Kullanımı: 67.6%
